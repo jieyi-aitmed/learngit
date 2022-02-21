@@ -1,2 +1,3 @@
 # learngit
 clone
+test pull
